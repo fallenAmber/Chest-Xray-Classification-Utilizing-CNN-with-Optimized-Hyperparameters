@@ -50,25 +50,25 @@ Preprocessing & Augmentation:
 
 ![T-V-Accuracy](https://user-images.githubusercontent.com/48941639/216800671-10668072-c3b5-4306-bc33-6cce98918d1b.png)
 
-## Fig: Training and Validation Accuracy
+  #                           Fig: Training and Validation Accuracy
 
 ### Learning Curve
 
 ![Learning Curve](https://user-images.githubusercontent.com/48941639/216800662-38ff01c1-4a06-462b-b24d-c518a68c1416.png)
 
-## Fig: Training and Validation Graph
+  #                           Fig: Training and Validation Graph
 
 ### Confusion Matrix
 
 ![CM](https://user-images.githubusercontent.com/48941639/216800685-6fff0287-380e-4341-a97d-db48235940bc.png)
 
-## Fig: Connfusion Matrix
+#                             Fig: Connfusion Matrix
 
 ### GradCAM
 
 ![GradCAM](https://user-images.githubusercontent.com/48941639/216800701-1680724c-6839-4e7f-8cd1-9794916f629a.png)
 
-## Fig: Heatmap Visualization Using GradCAM
+#                             Fig: Heatmap Visualization Using GradCAM
 
 ### Conclusion
 
