@@ -33,31 +33,43 @@ Preprocessing & Augmentation:
 
 -Employed photo augmentation for solving the issue of a short dataset and to improve the accuracy rate while limiting model overfitting.
 
-Proposed Architecture
+### Proposed Architecture
+
 ![Schematic](https://user-images.githubusercontent.com/48941639/216800649-3d1972bf-65d4-44e0-b5d9-1cf68894cd35.png)
-Fig: Schematic Block-diagram of the Convolutional Neural Architecture
 
-Tech/Stacks
- Python
+## Fig: Schematic Block-diagram of the Convolutional Neural Architecture
 
- Keras/TensorFlow
+### Tech/Stacks
+ 
+ ## Python
 
-Results
-Training & Validation Accuracy
+ ## Keras/TensorFlow
+
+### Results
+## - Training & Validation Accuracy
+
 ![T-V-Accuracy](https://user-images.githubusercontent.com/48941639/216800671-10668072-c3b5-4306-bc33-6cce98918d1b.png)
-Fig: Training and Validation Accuracy
 
-Learning Curve
+## Fig: Training and Validation Accuracy
+
+### Learning Curve
+
 ![Learning Curve](https://user-images.githubusercontent.com/48941639/216800662-38ff01c1-4a06-462b-b24d-c518a68c1416.png)
-Fig: Training and Validation Graph
 
-Confusion Matrix
+## Fig: Training and Validation Graph
+
+### Confusion Matrix
+
 ![CM](https://user-images.githubusercontent.com/48941639/216800685-6fff0287-380e-4341-a97d-db48235940bc.png)
-Fig: Connfusion Matrix
 
-GradCAM
+## Fig: Connfusion Matrix
+
+### GradCAM
+
 ![GradCAM](https://user-images.githubusercontent.com/48941639/216800701-1680724c-6839-4e7f-8cd1-9794916f629a.png)
-Fig: Heatmap Visualization Using GradCAM
 
-Conclusion
+## Fig: Heatmap Visualization Using GradCAM
+
+### Conclusion
+
 Demonstrated how to use chest imaging to classify COVID and other lung-related illnesses. Developed this architecture from scratch and distinguished it from different approaches. This study will improve the health of at-risk individuals in the polluted area primarily affected by lung diseases. It will help the medical sector determine the conditions by analyzing the affected area of the chest x-ray.
